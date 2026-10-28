@@ -1,0 +1,7 @@
+﻿Resultado_Verificacao_*.xlsx
+clientes.xlsx
+sessao_telegram.session
+debug_log.txt
+~$*.xlsx
+__pycache__/
+*.pyc
